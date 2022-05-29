@@ -1,0 +1,5 @@
+function valuesGeneratorComparison()
+    uiopen()
+
+end
+
